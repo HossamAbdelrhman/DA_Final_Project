@@ -9,7 +9,7 @@ Repo [link](https://github.com/HossamAbdelrhman/DA_Final_Project)
 
 ### Data analysis and Tradational Machine Learning 
 - to get the same result download the notebook and change the data path to your path
-- or add short cut to the data link above to your google drive and mount the your drive to access the data the notebook link on colab is https://colab.research.google.com/drive/1uEY1C7cwOmYqZZzBYfHrV1MVjqmoxw_m?usp=sharing
+- or add short cut to the data link above to your google drive and mount the your drive to access the data the notebook [link](https://colab.research.google.com/drive/1uEY1C7cwOmYqZZzBYfHrV1MVjqmoxw_m?usp=sharing) on colab
   
 ### multi-modal part
 - For multi-modal part you need to run first part of multimodal-archit.ipynb file till you generate .csv file name preprocessed_listings.csv which contain two wmpty columns.
