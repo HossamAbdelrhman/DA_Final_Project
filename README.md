@@ -14,7 +14,10 @@ Repo [link](https://github.com/HossamAbdelrhman/DA_Final_Project)
 ### Multi-modal part
 - For multi-modal part you need to run first part of multimodal-archit.ipynb file till you generate .csv file name preprocessed_listings.csv which contain two wmpty columns.
 - Move to script_of_image_scraping.ipynb file and run it to fill this two coulmns.
-- Back multimodal-archit.ipynb fileand run the following code.
+- Back multimodal-archit.ipynb file and run the following code.
 
+### GENAI Part
+- For GenAI part, you need to download the dataset first then run `scrabeImages.py` to scrape images from Airbnb
+- Move to GenAI.ipynb and flow it 
 
 important note: you have to use same files and directories names as it is or you have to replace it by the structure you follow.
