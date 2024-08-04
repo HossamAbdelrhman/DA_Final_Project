@@ -18,6 +18,6 @@ Repo [link](https://github.com/HossamAbdelrhman/DA_Final_Project)
 
 ### GENAI Part
 - For GenAI part, you need to download the dataset first then run `scrabeImages.py` to scrape images from Airbnb
-- Move to GenAI.ipynb and flow it 
+- Move to `GenAI.ipynb` and flow it 
 
 important note: you have to use same files and directories names as it is or you have to replace it by the structure you follow.
